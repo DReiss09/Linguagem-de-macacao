@@ -1,0 +1,220 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+li a.active {
+    background-color: #dd203c;
+}
+
+.principal {
+    margin-top: 55px;
+    padding: 20px;
+}
+
+img {
+    max-width: 450px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 20px;
+}
+
+
+h1 {
+    font-size: 28px;
+    margin-bottom: 15px;
+    color: #000;
+}
+
+.descricao {
+    font-size: 14px;
+    margin-bottom: 15px;
+    line-height: 1.4;
+}
+
+.subtitulo {
+    font-size: 14px;
+    color: #444;
+    margin-bottom: 10px;
+}
+
+
+.lista-caracteristicas {
+    padding-left: 20px;
+}
+
+.lista-caracteristicas li {
+    float: none;
+    font-size: 14px;
+    line-height: 1.5;
+    margin-bottom: 8px;
+}
+/* Container do Cartão Cinzento */
+.card-container {
+    background-color: #dcdcdc;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.logo-tabela {
+    width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.card-container h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    color: #000;
+}
+
+/* Estilização da Tabela */
+.tabela-produtos {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #ffffff;
+    font-size: 13px;
+}
+
+.tabela-produtos th, 
+.tabela-produtos td {
+    border: 1px solid #777;
+    padding: 8px 10px;
+    text-align: left;
+}
+
+.tabela-produtos th {
+    background-color: #ff001b;
+    color: white;
+    font-weight: bold;
+}
+
+.card-container {
+    background-color: #dcdcdc;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.logo-tabela {
+    width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.card-container h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    color: #000;
+}
+
+.tabela-produtos {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #ffffff;
+    font-size: 13px;
+}
+
+.tabela-produtos th, 
+.tabela-produtos td {
+    border: 1px solid #777;
+    padding: 8px 10px;
+    text-align: left;
+}
+
+.tabela-produtos th {
+    background-color: #ff001b;
+    color: white;
+    font-weight: bold;
+}
+
+
+.tabela-produtos tbody tr:nth-child(even) {
+    background-color: #fbcac8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
